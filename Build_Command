@@ -1,0 +1,1 @@
+pyinstaller.exe --hidden-import babel.numbers --icon=CTS.ico --add-data="CTS.ico;." --noconsole --name "CTS_Statistics" App.py
